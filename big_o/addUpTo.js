@@ -7,4 +7,4 @@ const addUpTo = (num) => {
     return total;
 }
 
-console.log(addUpTo(3))
+console.log(addUpTo(6))
